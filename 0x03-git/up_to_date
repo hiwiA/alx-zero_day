@@ -1,0 +1,8 @@
+git pull
+git push origin master 
+git clone
+git add .
+git branch
+git chekout 
+git status 
+
